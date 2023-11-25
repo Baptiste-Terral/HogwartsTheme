@@ -1,0 +1,9 @@
+{
+    "name": "Hogwarts Night",
+    "description": "A Hogwarts night theme.",
+    "version": "1.0",
+    "author": "lemon_bubble",
+    "theme": "HogwartsNight.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
